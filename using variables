@@ -1,0 +1,11 @@
+# create and print the varibale down below
+rent= 1700
+print(rent)
+print("------------")
+a = 50 
+b = a
+c = 456
+x = y = c
+print(b)
+print("------------")
+print(y)
