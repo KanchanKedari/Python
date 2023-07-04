@@ -1,0 +1,4 @@
+#using a print function helps to display input values as text in output 
+print(67+34)
+print(67*34)
+print(67-34)
